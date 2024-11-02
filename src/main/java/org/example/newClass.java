@@ -1,7 +1,7 @@
 package org.example;
 
 public class newClass {
-    int s1re;
+    int s1DWAre;
     int scoreee2;
     int s2;
     int scor1e22;

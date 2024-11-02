@@ -1,5 +1,6 @@
 package org.example;
 
 public class newClass2 {
-    String csl;
+    int testscore;
+    int penalty;
 }

@@ -3,8 +3,9 @@ package org.example;
 public class newClass2 {
     int testscore;
     int penalty;
-    int penalty22222;
-    int penalty222221;
+    int penalty2112;
+    int penalty121;
     int penalty2222265;
     int penalty22222653412;
+    int penalty2222265341212;
 }

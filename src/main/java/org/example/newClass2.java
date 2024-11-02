@@ -6,4 +6,5 @@ public class newClass2 {
     int penalty22222;
     int penalty222221;
     int penalty2222265;
+    int penalty22222653412;
 }

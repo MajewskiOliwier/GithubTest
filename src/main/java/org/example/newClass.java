@@ -1,5 +1,5 @@
 package org.example;
 
 public class newClass {
-    int score;
+    int s1re;
     int scoreee2;

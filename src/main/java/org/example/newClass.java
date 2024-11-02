@@ -5,4 +5,5 @@ public class newClass {
     int scoreee2;
     int scor1e2;
     int scor1e22;
+    int scorsssss;
 }

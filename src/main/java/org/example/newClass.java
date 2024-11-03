@@ -6,4 +6,5 @@ public class newClass {
     int sdwadaw;
     int sdada2;
     int scorsssss;
+
 }

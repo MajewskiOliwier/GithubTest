@@ -1,6 +1,6 @@
 package org.example;
 
-public class newClass {
+public class newCass {
     int s1DWAre;
     int scoreee2;
     int sdwadaw;

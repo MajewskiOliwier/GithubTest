@@ -2,7 +2,7 @@ package org.example;
 
 public class newCass {
     int s1DWAre;
-    int scoreee2;
+    int scoressee2;
     int sdwadaw;
     int sdwad11aw;
 

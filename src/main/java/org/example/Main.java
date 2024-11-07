@@ -5,6 +5,9 @@ public class Main {
 
         System.out.println("Hello world!");
         System.out.println("MAIN");
+
+wddaw
+
         System.out.println("MAIN2");
 
     }
